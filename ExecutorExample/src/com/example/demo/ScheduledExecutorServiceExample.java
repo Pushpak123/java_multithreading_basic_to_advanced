@@ -1,0 +1,48 @@
+package com.example.demo;
+
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
+
+public class ScheduledExecutorServiceExample {
+    public static void main(String[] args) {
+        ScheduledExecutorService scheduledExecutorService= Executors.newScheduledThreadPool(3);
+        ExecutorService singleThreadPool=Executors.newSingleThreadExecutor();
+        ExecutorService fixedThreadPool=Executors.newFixedThreadPool(4);
+        ExecutorService cachedThreadPool=Executors.newCachedThreadPool();
+        ExecutorService scheduledThreadPool=Executors.newScheduledThreadPool(4);
+        ExecutorService singleScheduledThreadPool=Executors.newSingleThreadScheduledExecutor();
+
+        for(int i=0;i<5;i++)
+        {
+            Task task=new Task("Task "+i);
+            scheduledExecutorService.schedule(task,i*2, TimeUnit.SECONDS);
+        }
+        scheduledExecutorService.scheduleAtFixedRate(
+                new Task("Fixed rate task")
+                ,1
+                ,5
+                ,TimeUnit.SECONDS
+
+        );
+
+        scheduledExecutorService.scheduleWithFixedDelay(
+                new Task("fixed delay task")
+                ,2
+                ,5
+                ,TimeUnit.SECONDS
+        );
+
+        try
+        {
+            Thread.sleep(20000);
+
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        scheduledExecutorService.shutdown();
+        System.out.println("scheduledExecutorService shutdown");
+
+    }
+}
