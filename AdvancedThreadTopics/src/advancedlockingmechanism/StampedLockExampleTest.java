@@ -1,4 +1,4 @@
-package advancedlockingmechanis;
+package advancedlockingmechanism;
 
 public class StampedLockExampleTest {
     public static void main(String[] args) {

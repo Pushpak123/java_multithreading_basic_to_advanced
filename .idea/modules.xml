@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedThreadTopics/AdvancedThreadTopics.iml" filepath="$PROJECT_DIR$/AdvancedThreadTopics/AdvancedThreadTopics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtomicVariables/AtomicVariables.iml" filepath="$PROJECT_DIR$/AtomicVariables/AtomicVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentCollectionExample/ConcurrentCollectionExample.iml" filepath="$PROJECT_DIR$/ConcurrentCollectionExample/ConcurrentCollectionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentCollections/ConcurrentCollections.iml" filepath="$PROJECT_DIR$/ConcurrentCollections/ConcurrentCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionVariablesExample/ConditionVariablesExample.iml" filepath="$PROJECT_DIR$/ConditionVariablesExample/ConditionVariablesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CounterExampleThread/CounterExampleThread.iml" filepath="$PROJECT_DIR$/CounterExampleThread/CounterExampleThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorExample/ExecutorExample.iml" filepath="$PROJECT_DIR$/ExecutorExample/ExecutorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FutureCallableExample/FutureCallableExample.iml" filepath="$PROJECT_DIR$/FutureCallableExample/FutureCallableExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JVMAndThreads/JVMAndThreads.iml" filepath="$PROJECT_DIR$/JVMAndThreads/JVMAndThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocksExample/LocksExample.iml" filepath="$PROJECT_DIR$/LocksExample/LocksExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerformanceAndScalability/PerformanceAndScalability.iml" filepath="$PROJECT_DIR$/PerformanceAndScalability/PerformanceAndScalability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumerExample/ProducerConsumerExample.iml" filepath="$PROJECT_DIR$/ProducerConsumerExample/ProducerConsumerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducerConsumerSystem/ProducerConsumerSystem.iml" filepath="$PROJECT_DIR$/ProducerConsumerSystem/ProducerConsumerSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Profiling Multithreaded App/Profiling Multithreaded App.iml" filepath="$PROJECT_DIR$/Profiling Multithreaded App/Profiling Multithreaded App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeChatApp/RealTimeChatApp.iml" filepath="$PROJECT_DIR$/RealTimeChatApp/RealTimeChatApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDebugging/ThreadDebugging.iml" filepath="$PROJECT_DIR$/ThreadDebugging/ThreadDebugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadStatesAndMonitoring/ThreadStatesAndMonitoring.iml" filepath="$PROJECT_DIR$/ThreadStatesAndMonitoring/ThreadStatesAndMonitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" filepath="$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolatileExample/VolatileExample.iml" filepath="$PROJECT_DIR$/VolatileExample/VolatileExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/multithreading.iml" filepath="$PROJECT_DIR$/.idea/multithreading.iml" />
     </modules>
   </component>

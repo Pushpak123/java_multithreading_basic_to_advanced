@@ -1,4 +1,4 @@
-package advancedlockingmechanis;
+package advancedlockingmechanism;
 
 import java.util.concurrent.locks.StampedLock;
 
