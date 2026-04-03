@@ -5,119 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b30195b-9b7c-40a4-9b1e-20be5e1b6ab1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadPoolExecutorExample/ThreadPoolExecutorExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadPoolExecutorExample/src/com/example/demo/ThreadPoolExecutorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/advancedlockingmechanism/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/advancedlockingmechanism/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/advancedlockingmechanism/StampedLockExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/advancedlockingmechanism/StampedLockExampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/ProducerConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/ProducerConsumerPatternExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/ThreadPerMessagePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/ThreadPerMessagePatternExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/WorkerThreadPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/concurrencydesignpatterns/WorkerThreadPatternExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedThreadTopics/src/exceptionhandlinginthreads/UncaughtExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedThreadTopics/src/exceptionhandlinginthreads/UncaughtExceptionHandlerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/src/main/java/com/example/demo/ThreadSafeCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/src/main/java/com/example/demo/UnitTestingMultithreadedCodeApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/src/test/java/com/example/demo/ThreadSafeCounterTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestingOfMultithread/src/test/java/com/example/demo/UnitTestingMultithreadedCodeApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/advancedlockingmechanis/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/advancedlockingmechanis/StampedLockExampleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/PrintRequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/PrintRequestHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/ProducerConsumerPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/ProducerConsumerPatternExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/ThreadPerMessagePatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/ThreadPerMessagePatternExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/WorkerThreadPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/concurrencydesignpatterns/WorkerThreadPatternExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/CallableExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/CallableExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/RunnableExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/RunnableExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/UncaughtExceptionHandlerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AdvancedThreadTopics/exceptionhandlinginthreads/UncaughtExceptionHandlerExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtomicVariables/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtomicVariables/com/example/demo/AtomicVariablesExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollectionExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollectionExample/com/example/demo/ConcurrentHashMapExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollections/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollections/com/example/demo/BlockingQueueExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollections/com/example/demo/ThreadSafeCollectionsExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConditionVariablesExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConditionVariablesExample/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ConditionVariablesExample/com/example/demo/SharedQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CounterExampleThread/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CounterExampleThread/com/example/demo/Counter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CounterExampleThread/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExecutorExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExecutorExample/com/example/demo/ExecutorServiceExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExecutorExample/com/example/demo/ScheduledExecutorServiceExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ExecutorExample/com/example/demo/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FutureCallableExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FutureCallableExample/com/example/demo/FutureCallableExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JVMAndThreads/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JVMAndThreads/com/example/demo/CustomTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JVMAndThreads/com/example/demo/DaemonThreadExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JVMAndThreads/com/example/demo/JVMThreadManagementExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JVMAndThreads/com/example/demo/ThreadPriorityExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LocksExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LocksExample/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LocksExample/com/example/demo/MainTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LocksExample/com/example/demo/ReadWriteLockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LocksExample/com/example/demo/ReentrantLockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/DeadlockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/ImmutabilityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/ParallelStreamExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/ThreadContentionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/ThreadPoolExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PerformanceAndScalability/com/example/demo/ThreadSafeCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerExample/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerExample/com/example/demo/MainTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerExample/com/example/demo/SharedBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerExample/com/example/demo/SharedBufferWithLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/com/example/demo/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/com/example/demo/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/com/example/demo/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/com/example/demo/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProducerConsumerSystem/com/example/demo/SharedBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Profiling Multithreaded App/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Profiling Multithreaded App/com/example/demo/BankAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Profiling Multithreaded App/com/example/demo/BankingApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RealTimeChatApp/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RealTimeChatApp/com/example/demo/ChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RealTimeChatApp/com/example/demo/ChatServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RealTimeChatApp/com/example/demo/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadDebugging/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadDebugging/com/example/demo/DeadlockExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/com/example/demo/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/com/example/demo/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/com/example/demo/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadStatesAndMonitoring/com/example/demo/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threading/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threading/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threading/com/example/demo/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestingMultithreadedCode/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestingMultithreadedCode/com/example/demo/ThreadSafeCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestingMultithreadedCode/com/example/demo/ThreadSafeCounterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VolatileExample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VolatileExample/com/example/demo/VolatileExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/VolatileExample/com/example/demo/VolatileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcurrentCollections/src/com/example/demo/BlockingQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConcurrentCollections/src/com/example/demo/BlockingQueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ConcurrentCollections/com/example/demo/BlockingQueueExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ConcurrentCollections/com/example/demo/BlockingQueueExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -127,6 +32,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="3Bk3fcqiHWQpXky09VBt2SX15Rb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,6 +53,7 @@
     "Application.FutureCallableExample.executor": "Run",
     "Application.ImmutabilityTest.executor": "Run",
     "Application.JVMThreadManagementExample.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MainTest (1).executor": "Run",
     "Application.MainTest (2).executor": "Run",
     "Application.MainTest.executor": "Run",
@@ -157,6 +66,7 @@
     "Application.ThreadContentionExample.executor": "Run",
     "Application.ThreadPerMessagePatternExample.executor": "Run",
     "Application.ThreadPoolExample.executor": "Run",
+    "Application.ThreadPoolExecutorExample.executor": "Run",
     "Application.ThreadPriorityExample.executor": "Run",
     "Application.ThreadSafeCollectionsExample.executor": "Run",
     "Application.UncaughtExceptionHandlerExample.executor": "Run",
@@ -165,27 +75,16 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Udemy_Fullstack_Java_React_developer_2026/Java Multithreading, Java Concurrency and Parallelism/multithreading/ThreadPoolExecutorExample/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VolatileTest">
-    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.ChatClient" />
-      <module name="RealTimeChatApp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.ChatServer" />
-      <module name="RealTimeChatApp" />
+  <component name="RunManager" selected="Application.ThreadPriorityExample">
+    <configuration name="DaemonThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DaemonThreadExample" />
+      <module name="JVMAndThreads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -198,7 +97,7 @@
     </configuration>
     <configuration name="DeadlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DeadlockExample" />
-      <module name="ThreadDebugging" />
+      <module name="PerformanceAndScalability" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -209,9 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.MyTest" />
-      <module name="Threading" />
+    <configuration name="JVMThreadManagementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.JVMThreadManagementExample" />
+      <module name="JVMAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPriorityExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.ThreadPriorityExample" />
+      <module name="JVMAndThreads" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
@@ -237,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadPriorityExample" />
+        <item itemvalue="Application.JVMThreadManagementExample" />
+        <item itemvalue="Application.DaemonThreadExample" />
         <item itemvalue="Application.VolatileTest" />
-        <item itemvalue="Application.MyTest" />
         <item itemvalue="Application.DeadlockExample" />
-        <item itemvalue="Application.ChatClient" />
-        <item itemvalue="Application.ChatServer" />
       </list>
     </recent_temporary>
   </component>

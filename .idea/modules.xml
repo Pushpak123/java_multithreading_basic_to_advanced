@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Profiling Multithreaded App/Profiling Multithreaded App.iml" filepath="$PROJECT_DIR$/Profiling Multithreaded App/Profiling Multithreaded App.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealTimeChatApp/RealTimeChatApp.iml" filepath="$PROJECT_DIR$/RealTimeChatApp/RealTimeChatApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDebugging/ThreadDebugging.iml" filepath="$PROJECT_DIR$/ThreadDebugging/ThreadDebugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPoolExecutorExample/ThreadPoolExecutorExample.iml" filepath="$PROJECT_DIR$/ThreadPoolExecutorExample/ThreadPoolExecutorExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadStatesAndMonitoring/ThreadStatesAndMonitoring.iml" filepath="$PROJECT_DIR$/ThreadStatesAndMonitoring/ThreadStatesAndMonitoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threading/Threading.iml" filepath="$PROJECT_DIR$/Threading/Threading.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" filepath="$PROJECT_DIR$/UnitTestingMultithreadedCode/UnitTestingMultithreadedCode.iml" />
